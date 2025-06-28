@@ -2,7 +2,8 @@
 
 A Go-based framework to make solving LeetCode problems easier.
 
-Adapted from [Tom on the Internet](https://www.youtube.com/@tomontheinternet) — check out his channel for great developer content and tutorials.
+Adapted from a video by [Tom on the Internet](https://www.youtube.com/watch?v=yKLTOQFcXsE)
+
 
 ---
 
