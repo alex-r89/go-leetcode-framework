@@ -33,11 +33,10 @@ git clone https://github.com/alex-r89/go-leetcode-framework.git
 cd go-leetcode-framework
 
 # 2. Create a new folder for the problem
-mkdir 1-two-sum
-cd 1-two-sum
+mkdir your_challenge_name
 
 # 3. Generate a test file (also creates the solution file if missing)
-gotests -all -w -parallel .
+gotests -all -w -parallel your_challenge_name
 
 # 4. Open the test file and:
 #    - Use your editor to expand the generated test struct (VSCode: cmd + .)
